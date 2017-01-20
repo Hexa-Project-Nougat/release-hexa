@@ -41,8 +41,8 @@
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>
-	  <![CDATA[ Up-To-Date with Lineage OS(Add Blur for Lockscreen, etc)
- HOTFIX: Return of NetworkTraffic(StatusBar)
+	  <![CDATA[ Up-To-Date with Lineage OS(Add Blur for Lockscreen, etc) \
+ HOTFIX: Return of NetworkTraffic(StatusBar) \
  HOTFIX: Battery styles]]>
 </Changelog>
 </ROM>
