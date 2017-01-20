@@ -4,7 +4,7 @@
   <RomName>
 	  <![CDATA[ Hexa-Project ]]>
   </RomName>
-  <VersionName>Initial</VersionName>
+  <VersionName><![CDATA[ Second Release(Hotfix) ]]></VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
