@@ -26,7 +26,7 @@
 	  <![CDATA[ 7.1.1 Nougat ]]>
   </Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
-  <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking -->
+  <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking. -->
   <CheckMD5 nil="true" />
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
