@@ -41,11 +41,11 @@
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>
-	  <![CDATA[ Up-To-Date with Lineage OS(Add Blur for Lockscreen, etc) \n
-	  THIS IS ONLY FOR SHAMU(Nexus6)!!!! \n
-	  Fixed: StatusBar Carrier Settings 'looks ugly' \n
-	  Fixed: NetworkSettings: Return of inactivity Threshold \n
-	  Fixed: Lockscreen Clock: Fix clock size when reboot. \n
+	  <![CDATA[ Up-To-Date with Lineage OS <br />
+	  THIS IS ONLY FOR SHAMU(Nexus6)!!!! <br />
+	  Fixed: StatusBar Carrier Settings 'looks ugly' <br />
+	  Fixed: NetworkSettings: Return of inactivity Threshold <br />
+	  Fixed: Lockscreen Clock: Fix clock size when reboot. <br />
 	  Fixed: SmarBar Settings: you can configure your settings now.]]>
 </Changelog>
 </ROM>
