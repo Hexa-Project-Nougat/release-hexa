@@ -1,2 +1,2 @@
 # Release-cm-13.0
-<img src='http://hexabot.iptime.org:8080/job/Hexa-BuildBot/badge/icon'>
+<img src='http://hexabot.iptime.org:3522/job/Hexa-BuildBot/badge/icon'>
