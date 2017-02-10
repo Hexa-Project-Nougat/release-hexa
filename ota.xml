@@ -22,7 +22,7 @@
   <CheckMD5 nil="true"/>
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
-  <FileSize type="integer">471403489</FileSize>
+  <FileSize type="integer">567633887</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
   <Developer><![CDATA[ KangDroid ]]></Developer>
